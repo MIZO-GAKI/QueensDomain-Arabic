@@ -1,0 +1,68 @@
+[
+  {
+    "file": "docs/images/comparison/merchant-before.png",
+    "scene": "merchant",
+    "language": "English",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "9f29b31f86f9e2ce5f3efe6d25dc3bfb7b883f5898379eae96a65f168e5fdb9b",
+    "source": "User-provided genuine gameplay screenshot; published unmodified"
+  },
+  {
+    "file": "docs/images/comparison/merchant-after.png",
+    "scene": "merchant",
+    "language": "Arabic",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "475016c5e48c4b7e37673babe3861c1dde05d7085e57f65263665769905d585d",
+    "source": "User-provided genuine gameplay screenshot; published unmodified"
+  },
+  {
+    "file": "docs/images/comparison/inventory-before.png",
+    "scene": "inventory",
+    "language": "English",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "42637bacb21c1f21589f63ddfa9576a3cdc78b67154f3ae205a4a3eb8701788a",
+    "source": "User-provided genuine gameplay screenshot; published unmodified"
+  },
+  {
+    "file": "docs/images/comparison/inventory-after.png",
+    "scene": "inventory",
+    "language": "Arabic",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "a0036665818329b37708392ac53d2f8c4fdce2e30344d0b638717a7f077393b0",
+    "source": "User-provided genuine gameplay screenshot; published unmodified"
+  },
+  {
+    "file": "docs/images/comparison/dialogue-before.png",
+    "scene": "dialogue",
+    "language": "English",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "c68676e82578b692b27fe447b09b937c36fe838edc34b0d64f682cea3a1a5e97",
+    "source": "User-provided genuine gameplay screenshot; published unmodified"
+  },
+  {
+    "file": "docs/images/comparison/dialogue-after.png",
+    "scene": "dialogue",
+    "language": "Arabic",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "364b8d1ed606846ce630088f946904f5623014b815a95260ae5fa94c72c7ef43",
+    "source": "User-provided genuine gameplay screenshot; published unmodified"
+  }
+]

@@ -48,23 +48,46 @@
 
 ## صور من التعريب
 
-لقطات حقيقية من اختبارات الإصدار، دون تركيب أو توليد صور لعب. افتح الصورة لرؤية التفاصيل؛ دقة الصورة المنشورة ليست بالضرورة دقة التصيير داخل اللعبة.
+### قبل التعريب وبعده
 
-**الحوار العربي**
+مقارنات فعلية أرسلها فريق التعريب: **الإنجليزية قبل التعريب** بجانب **العربية بعده**. الصور الأصلية بدقة 3840×2160، منشورة دون تغيير. اضغط على أي صورة لفتحها بحجمها الكامل، خصوصًا على الهاتف.
 
-![الحوار العربي داخل صندوق الحوار](docs/images/dialogue.jpg)
+### المتجر
+
+<table dir="ltr">
+<tr><th width="50%" dir="rtl">قبل التعريب — الإنجليزية</th><th width="50%" dir="rtl">بعد التعريب — العربية</th></tr>
+<tr>
+<td><a href="docs/images/comparison/merchant-before.png"><img src="docs/images/comparison/merchant-before.png" alt="المتجر قبل التعريب بالإنجليزية" width="100%"></a></td>
+<td><a href="docs/images/comparison/merchant-after.png"><img src="docs/images/comparison/merchant-after.png" alt="المتجر بعد التعريب بالعربية" width="100%"></a></td>
+</tr>
+</table>
+
+### المخزون والمعدات
+
+<table dir="ltr">
+<tr><th width="50%" dir="rtl">قبل التعريب — الإنجليزية</th><th width="50%" dir="rtl">بعد التعريب — العربية</th></tr>
+<tr>
+<td><a href="docs/images/comparison/inventory-before.png"><img src="docs/images/comparison/inventory-before.png" alt="المخزون والمعدات قبل التعريب بالإنجليزية" width="100%"></a></td>
+<td><a href="docs/images/comparison/inventory-after.png"><img src="docs/images/comparison/inventory-after.png" alt="المخزون والمعدات بعد التعريب بالعربية" width="100%"></a></td>
+</tr>
+</table>
+
+### الحوار
+
+<table dir="ltr">
+<tr><th width="50%" dir="rtl">قبل التعريب — الإنجليزية</th><th width="50%" dir="rtl">بعد التعريب — العربية</th></tr>
+<tr>
+<td><a href="docs/images/comparison/dialogue-before.png"><img src="docs/images/comparison/dialogue-before.png" alt="الحوار قبل التعريب بالإنجليزية" width="100%"></a></td>
+<td><a href="docs/images/comparison/dialogue-after.png"><img src="docs/images/comparison/dialogue-after.png" alt="الحوار بعد التعريب بالعربية" width="100%"></a></td>
+</tr>
+</table>
+
+[فتح معرض المقارنة كاملًا](docs/COMPARISON.md)
 
 <details>
-<summary>المخزون والمعدات والمتجر</summary>
+<summary>صور إضافية: الدليل وسجل الوحوش وقائمة الإيقاف</summary>
 
-![المخزون والمعدات والأعداد](docs/images/inventory.jpg)
-
-![المتجر والأسماء والأسعار](docs/images/merchant.jpg)
-
-</details>
-
-<details>
-<summary>الدليل وسجل الوحوش والقائمة</summary>
+لقطات فعلية من اختبارات الإصدار؛ دقة هذه اللقطات المنشورة تختلف عن دقة التصيير داخل اللعبة.
 
 ![الدليل العربي](docs/images/guide.jpg)
 

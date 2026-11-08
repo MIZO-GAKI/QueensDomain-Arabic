@@ -16,6 +16,8 @@
 
 [التثبيت بالعربية](https://github.com/MIZO-GAKI/QueensDomain-Arabic/blob/v1.3.2/docs/INSTALL_AR.md) · [English](https://github.com/MIZO-GAKI/QueensDomain-Arabic/blob/v1.3.2/docs/INSTALL_EN.md) · [التغييرات](https://github.com/MIZO-GAKI/QueensDomain-Arabic/blob/v1.3.2/CHANGELOG.md) · [نتائج الاختبار وحدوده](https://github.com/MIZO-GAKI/QueensDomain-Arabic/blob/v1.3.2/docs/VALIDATION.md) · [Nexus Mods](https://www.nexusmods.com/queensdomain/mods/12)
 
+[صور قبل التعريب وبعده](https://github.com/MIZO-GAKI/QueensDomain-Arabic/blob/main/docs/COMPARISON.md)
+
 الحزم لا تحتوي EXE اللعبة أو أرشيفات ZIP داخلية. راجع [الحقوق والمكوّنات](https://github.com/MIZO-GAKI/QueensDomain-Arabic/blob/v1.3.2/THIRD_PARTY_NOTICES.md). شكرًا لدعمكم بالنجوم والمشاركة والإبلاغ عن المشكلات.
 
 </div>
