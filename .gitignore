@@ -1,0 +1,25 @@
+# Distribute compiled mod packages through Releases, never Git history.
+dist/
+files/*.pak
+files/*.layout.json
+files/fade/
+__pycache__/
+*.py[cod]
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.sav
+*.bin
+*.log
+.env
+.env.*
+source/work/*
+!source/work/inventory.json
+!source/work/translations/
+!source/work/translations/*.json
+source/reports/*
+!source/reports/.gitkeep
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: دليل التثبيت
+    url: https://github.com/MIZO-GAKI/QueensDomain-Arabic/blob/main/docs/INSTALL_AR.md
+    about: راجع التثبيت والتوافق وحل المشكلات أولًا.

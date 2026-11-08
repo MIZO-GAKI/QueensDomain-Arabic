@@ -1,0 +1,16 @@
+{
+ "original_sha256": "8D805CFF01753F9066BF60E4432A02D91533E4741AC0EAF1649B3C1CD17EE9CF",
+ "patched_sha256": "D3FD3846E99EEED520CD71BA71F50C45760DA73FA4192EFE07AB08B6C791A417",
+ "patches": [
+  {
+   "offset": 12294023,
+   "old": "4863d8488d8c24a0000000",
+   "new": "e9b4a099ff909090909090"
+  },
+  {
+   "offset": 5584960,
+   "old": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+   "new": "488b4f78488b094885c97445486397080300004c63870c0300004c39c27d32440fb70c51458d9100faffff4181fa0001000072154181e950fb00004181f9b0030000720548ffc2ebd1f7d00387280300004863d8488d8c24a0000000e9f15e6600"
+  }
+ ]
+}

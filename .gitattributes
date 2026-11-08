@@ -1,0 +1,9 @@
+* text=auto
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.py text eol=lf
+*.md text eol=lf
+*.jpg binary
+*.ttf binary
+source/work/translations/*.json -text
+source/work/inventory.json -text
