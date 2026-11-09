@@ -3,8 +3,7 @@
 # Queen's Domain — التعريب العربي
 
 **من تطوير MIZO و ABDULAZIZ** · الإصدار المستقر <bdi>1.3.2</bdi> · مجاني للجميع
-
-[تحميل أحدث إصدار](https://github.com/MIZO-GAKI/QueensDomain-Arabic/releases/tag/v1.3.2) · [دليل التثبيت](docs/INSTALL_AR.md) · [الإبلاغ عن مشكلة](https://github.com/MIZO-GAKI/QueensDomain-Arabic/issues/new/choose) · [Nexus Mods](https://www.nexusmods.com/queensdomain/mods/12)
+ [دليل التثبيت](docs/INSTALL_AR.md) · [الإبلاغ عن مشكلة](https://github.com/MIZO-GAKI/QueensDomain-Arabic/issues/new/choose) · [Nexus Mods](https://www.nexusmods.com/queensdomain/mods/12)
 
 نقدّم لكم التعريب العربي للعبة <bdi>Queen's Domain</bdi>، لنشارككم عالمها وحواراتها باللغة العربية مع الحفاظ على أجوائها الأصلية. يشمل العمل ترجمة النصوص وتحسين عرض العربية داخل الواجهات، من اتصال الحروف واتجاه القراءة إلى مواضع الأسماء والأيقونات.
 
@@ -23,17 +22,17 @@
 
 ## ↓ التحميل
 
-اختر **حزمة واحدة** من الإصدار <bdi>1.3.2</bdi>:
+اختر **حزمة واحدة** من الإصدار <bdi>1.4.0</bdi>:
 
-### [النسخة الكاملة — تثبيت تلقائي](https://github.com/MIZO-GAKI/QueensDomain-Arabic/releases/download/v1.3.2/QueensDomain-Arabic-v1.3.2-Full-Installer.zip)
+### [النسخة الكاملة — تثبيت تلقائي](https://github.com/MIZO-GAKI/QueensDomain-Arabic/releases/download/v1.4.0/QueensDomain-Arabic-v1.4.0-Full-Installer.zip)
 
 المثبّت يبحث عن اللعبة، يحفظ نسخة من التعريب السابق، ويعرض خيار الظهور التدريجي عندما يتوافق ملف التشغيل. إن لم يتوافق، يثبّت نسخة العرض الكامل تلقائيًا دون تعديل الملف التنفيذي.
 
-### [النسخة اليدوية — ملف PAK فقط](https://github.com/MIZO-GAKI/QueensDomain-Arabic/releases/download/v1.3.2/QueensDomain-Arabic-v1.3.2-Manual-PAK.zip)
+### [النسخة اليدوية — ملف PAK فقط](https://github.com/MIZO-GAKI/QueensDomain-Arabic/releases/download/v1.4.0/QueensDomain-Arabic-v1.4.0-Manual-PAK.zip)
 
 انسخ ملف التعريب إلى مجلد اللعبة دون تشغيل مثبّت. **هذه النسخة لا تدعم الظهور التدريجي للحروف العربية من اليمين إلى اليسار؛ يظهر نص الحوار كاملًا مع تلاشٍ لطيف.** للحصول على الظهور التدريجي، استخدم النسخة الكاملة وخيارها المخصص على ملف تشغيل متوافق.
 
-[بصمات SHA-256](https://github.com/MIZO-GAKI/QueensDomain-Arabic/releases/download/v1.3.2/SHA256SUMS.txt) · [جميع الإصدارات](https://github.com/MIZO-GAKI/QueensDomain-Arabic/releases) · [صفحة Nexus Mods](https://www.nexusmods.com/queensdomain/mods/12)
+ · [جميع الإصدارات](https://github.com/MIZO-GAKI/QueensDomain-Arabic/releases) · [صفحة Nexus Mods](https://www.nexusmods.com/queensdomain/mods/12)
 
 ### أي نسخة أختار؟
 
@@ -121,7 +120,7 @@ QueensDomain/Content/Paks/zz_QueensDomain_Arabic_P.pak
 
 ## التوافق والمشكلات الشائعة
 
-يقبل المثبّت أرقام إصدارات اللعبة المختلفة على Windows، مع بنية المجلدات الحالية. **قبول التثبيت لا يضمن توافق الواجهات مع كل تحديث للعبة.** اختُبر العرض على <bdi>Steam build 13480 / game 1.01.03 / UE 4.27.2</bdi>.
+يقبل المثبّت أرقام إصدارات اللعبة المختلفة على Windows، مع بنية المجلدات الحالية. **قبول التثبيت لا يضمن توافق الواجهات مع كل تحديث للعبة.** اختُبر العرض على <bdi>Steam build 13480 / game 1.01.05 / UE 4.27.2</bdi>.
 
 تعديل EXE الاختياري لا يعمل إلا عند تطابق بصمة الملف مع النسخة المعروفة. يُنشئ المثبّت نسخة احتياطية قبل التعديل ويتحقق من النتيجة. عند اختلاف البصمة يستخدم PAK فقط، دون تجاوز فحص التوافق. لا نوزّع الملف التنفيذي الأصلي.
 
