@@ -2,7 +2,7 @@
 
 # Queen's Domain — التعريب العربي
 
-**من تطوير MIZO و ABDULAZIZ** · الإصدار المستقر <bdi>1.3.2</bdi> · مجاني للجميع
+**من تطوير MIZO و ABDULAZIZ** · الإصدار المستقر <bdi>1.4.0</bdi> · مجاني للجميع
  [دليل التثبيت](docs/INSTALL_AR.md) · [الإبلاغ عن مشكلة](https://github.com/MIZO-GAKI/QueensDomain-Arabic/issues/new/choose) · [Nexus Mods](https://www.nexusmods.com/queensdomain/mods/12)
 
 نقدّم لكم التعريب العربي للعبة <bdi>Queen's Domain</bdi>، لنشارككم عالمها وحواراتها باللغة العربية مع الحفاظ على أجوائها الأصلية. يشمل العمل ترجمة النصوص وتحسين عرض العربية داخل الواجهات، من اتصال الحروف واتجاه القراءة إلى مواضع الأسماء والأيقونات.
